@@ -20,6 +20,6 @@ def verificandoData(data):
     elif ano == 3 and texto == 1:
         print("dataInvalida")
     
-    print(f'Data Válida, {dia} de {meses[mes-1]}, de {ano}')
+    print(f'Data Válida, {dia} de {meses[]}, de {ano}')
 
 verificandoData(data)
