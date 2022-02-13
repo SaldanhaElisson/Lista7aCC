@@ -56,3 +56,13 @@ mensagem “Data Inválida”.
 ![Q004](./img/Q004.png)
 
 
+## 5° Questão
+---
+
+**Problema:** Dado os índices de massa corporal e sua classificação, conforme tabela abaixo, crie uma função
+em python para ler os valores (peso e altura) de uma pessoa e mostrar seu IMC,
+CLASSIFICAÇÃO e OBESIDADE.
+
+**Resposta**
+
+![Q0005](./img/Q005.png)
